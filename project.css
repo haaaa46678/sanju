@@ -1,0 +1,19 @@
+.card{
+    border: 1px solid rgba(0, 0, 0, 0.822);
+    width: 320px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 0px;
+    background-color:lavender;
+}
+.card-img{
+    border-radius: 10px;
+    width: 100%;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card:hover{
+    border: 3px solid black;
+}
